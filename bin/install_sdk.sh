@@ -11,3 +11,7 @@ bundle config set --local path 'vendor/bundle'
 # Install Java
 sudo apt update
 sudo apt install -y openjdk-17-jdk
+
+# Install Maven
+sudo apt update
+sudo apt install -y maven
